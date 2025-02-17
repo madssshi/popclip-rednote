@@ -14,4 +14,4 @@ Select text and click the icon to jump to [rednote](https://www.xiaohongshu.com)
 1. 需要在电脑中先安装[PopClip](https://www.popclip.app/)
 2. 下载 [rednote.popclipext](https://github.com/madssshi/popclip-rednote/raw/refs/heads/main/rednote.popclipext), 双击后popclip会自动识别并安装插件
 
-First install [PopClip](https://www.popclip.app/) . Download [rednote.popclipext](https://github.com/madssshi/popclip-rednote/raw/refs/heads/main/rednote.popclipext), double-click and PopClip will automatically recognize and install the extension
+Install [PopClip](https://www.popclip.app/) . Download [rednote.popclipext](https://github.com/madssshi/popclip-rednote/raw/refs/heads/main/rednote.popclipext), double-click and PopClip will automatically recognize and install the extension
