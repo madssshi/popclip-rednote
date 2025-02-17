@@ -1,6 +1,7 @@
 # PopClip 小红书搜索插件
 
-划词点击图标跳转至[小红书](https://www.xiaohongshu.com)网页版搜索, 省去打开网页再点击搜索的步骤. 本插件仅为自用的同时分享, 和小红书官方没有任何关系
+划词点击图标跳转至[小红书](https://www.xiaohongshu.com)网页版搜索, 省去打开网页再点击搜索的步骤. 
+本插件仅为自用的同时分享, 和小红书官方没有任何关系
 
 PopClip Extension for rednote search
 
