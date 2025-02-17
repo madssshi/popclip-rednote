@@ -1,0 +1,11 @@
+{
+  "name": "rednote",
+  "icon": "rednote.png",
+  "identifier": "com.xiaohongshu.search",
+  "actions": [{
+    "title": "rednote: {popclip text}",
+    "after": "open-url",
+    "url": "https://www.xiaohongshu.com/search_result?keyword={popclip text}",
+    "requirements": ["text"]
+  }]
+}
